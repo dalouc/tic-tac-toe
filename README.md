@@ -12,6 +12,12 @@ Three gameplay options:
 
 ## Getting Started
 
+### Prerequisites
+
+Ensure you have the following installed:
+
+- Java Development Kit (JDK)
+
 ### Installation
 
 1. Clone this repository to your local machine
